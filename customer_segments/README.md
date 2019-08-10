@@ -1,0 +1,1 @@
+This is a project about how to segment all the customer.related to supervise learning.
