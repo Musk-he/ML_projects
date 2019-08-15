@@ -1,0 +1,1 @@
+This is a project about how to teach robot to move in the maze.related to reinforcement learning.
